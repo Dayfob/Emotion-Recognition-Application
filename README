@@ -3,3 +3,18 @@ Dataset: https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-
     - Ravdess dataset;
     - Savee dataset;
     - Tess dataset.
+
+ML Algorithms:
+    - Random Forest
+    - KNN
+    - CNN
+    - Transformer NN
+
+Audio Features:
+    - ZCR (Zero Crossing Rate)
+    - Chromagram
+    - Spectral Contrast
+    - Spectral Rolloff
+    - RMS (Root Mean Square)
+    - Mel Spectrogram
+    - MFCC (Mel-Frequency Cepstral Coefficients)
