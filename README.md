@@ -71,5 +71,3 @@ This project represents a significant step forward in developing assistive techn
 - **Abbas Hussain Syed** - [University of the Pacific](mailto:a_syed3@u.pacific.edu)
 
 ---
-
-Feel free to customize this further as needed!
