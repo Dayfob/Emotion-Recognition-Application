@@ -1,5 +1,3 @@
-Here's a `README.md` description for your GitHub project based on the information you provided and the details from the research proposal:
-
 ---
 
 # Emotion Recognition Application
